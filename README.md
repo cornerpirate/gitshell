@@ -1,6 +1,16 @@
 # gitshell
 A PoC .net shell which uses a GitHub.com repository for the communication channel.
 
+# Gasp at it in action!
+
+Showing a victim executing a shell and attacker executing commands:
+
+![ExampleShell](images/ExampleShell.png?raw=true "Example Shell")
+
+For more information on how it all hangs together please review the companion blog post from SecarmaLabs over here:
+
+https://blog.secarma.co.uk/labs/git-shell-proof-of-concept
+
 # GitShellVictim
 
 Clone down the repository and then open "GitShellVictim.sln" inside Visual Studio 2017. You can then read the source or compile the binary yourself.
